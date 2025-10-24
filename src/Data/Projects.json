@@ -1,0 +1,16 @@
+[
+    {
+        "title":"Crypto Market",
+        "description": "An online market in which users can charge their wallets and buy crypto coins. ",
+        "techStack": ["React","JavaScript","HTML","CSS"],
+        "github": "https://github.com/mahbodmz/react-crypto-market",
+        "video": "/Videos/CryptoMarketVid.mp4"
+    },
+    {
+        "title":"Banking Application",
+        "description": "A banking system enabling admins to create and manage user accounts, while users can deposit funds, transfer money, and monitor their balances. ",
+        "techStack": ["C++","QT","CSS"],
+        "github": "https://github.com/mahbodmz/Bank-Application",
+        "video": "/Videos/BankVid.mp4"
+    }
+]

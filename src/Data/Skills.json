@@ -1,0 +1,26 @@
+[
+    {
+    "category": "Languages",
+    "skills": ["JavaScript", "C++", "HTML", "CSS"]
+    },
+    {
+    "category": "Frameworks & Libraries",
+    "skills": ["React", "Qt"]
+    },
+    {
+    "category": "Databases & APIs",
+    "skills": ["SQLite (basic experience)", "REST APIs"]
+    },
+    {
+    "category": "AI & Prompting",
+    "skills": ["ChatGPT / AI prompt engineering"]
+    },
+    {
+    "category": "Soft Skills",
+    "skills": ["Teamwork", "Discipline", "Communication"]
+    },
+    {
+    "category": "Experience",
+    "skills": ["Participated in ACM contests"]
+    }
+]
