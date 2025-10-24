@@ -145,16 +145,16 @@
     box-shadow: 0 5px 15px rgba(59, 130, 246, 0.3);
 }
 
-/* Specific styles for different media */
-.contact-card:nth-child(1) .contact-icon { /* LinkedIn */
+
+.contact-card:nth-child(1) .contact-icon { 
     color: #0a66c2;
 }
 
-.contact-card:nth-child(2) .contact-icon { /* GitHub */
+.contact-card:nth-child(2) .contact-icon {
     color: #ffffff;
 }
 
-.contact-card:nth-child(3) .contact-icon { /* Email */
+.contact-card:nth-child(3) .contact-icon {
     color: #ea4335;
 }
 
@@ -172,7 +172,7 @@
     filter: brightness(1.2);
 }
 
-/* Animation */
+
 @keyframes fadeInUp {
     from {
         opacity: 0;
@@ -192,7 +192,7 @@
 .contact-card:nth-child(2) { animation-delay: 0.2s; }
 .contact-card:nth-child(3) { animation-delay: 0.3s; }
 
-/* Additional contact info */
+
 .contact-subtitle {
     color: #d1d5db;
     font-size: 1.2rem;
@@ -203,7 +203,7 @@
     line-height: 1.6;
 }
 
-/* Mobile Responsive */
+
 @media (max-width: 768px) {
     .contact {
         padding: 5rem 1rem 1rem;

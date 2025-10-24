@@ -74,7 +74,7 @@
     font-style: italic;
 }
 
-/* Mobile Responsive */
+
 @media (max-width: 768px) {
     .resume {
         padding: 5rem 1rem 1rem;

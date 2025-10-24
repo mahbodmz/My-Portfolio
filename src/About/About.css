@@ -33,7 +33,7 @@
     border-radius: 2px;
 }
 
-/* Main content card */
+
 .about-card {
     background: rgba(17, 24, 39, 0.6);
     border: 1px solid rgba(59, 130, 246, 0.2);
@@ -76,7 +76,7 @@
     margin-bottom: 0;
 }
 
-/* Skills Section */
+
 .skills-section {
     margin-top: 3rem;
 }
@@ -112,7 +112,7 @@
     box-shadow: 0 5px 15px rgba(59, 130, 246, 0.2);
 }
 
-/* Education Section */
+
 .education-section {
     margin-top: 3rem;
     padding: 2rem;
@@ -139,7 +139,7 @@
     font-size: 1.2rem;
 }
 
-/* Animation */
+
 .about-card {
     animation: fadeInUp 0.8s ease-out;
 }
@@ -156,7 +156,7 @@
     }
 }
 
-/* Mobile Responsive */
+
 @media (max-width: 768px) {
     .about {
         padding: 5rem 1rem 1rem;

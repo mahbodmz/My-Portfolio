@@ -68,7 +68,7 @@
     width: 100%;
 }
 
-/* Active link style */
+
 .navbar a.active {
     color: #3b82f6;
 }
@@ -78,7 +78,7 @@
     background: #3b82f6;
 }
 
-/* Mobile Responsive */
+
 @media (max-width: 768px) {
     .navbar {
         padding: 0 1rem;
@@ -105,7 +105,7 @@
     }
 }
 
-/* Animation for navbar entry */
+
 @keyframes slideDown {
     from {
         transform: translateY(-100%);
